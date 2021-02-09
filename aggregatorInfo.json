@@ -1,0 +1,11 @@
+{
+	"aggregatorID": "2020UUH0001",
+	"manufacturer": "Uppsala University",
+	"patientID": 123456678,
+	"productionDate": "2020-10-01",
+	"firmwareVersion": "v1.1",
+	"sensors": [
+		{} 
+	]
+}
+

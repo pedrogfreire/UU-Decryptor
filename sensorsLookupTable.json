@@ -1,0 +1,14 @@
+{
+	"sensors": [
+	{"ID": 123456, "UniqID": "2020UU123456-0001", "unit": "%", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123457, "UniqID": "2020UU123457-0001", "unit": "mg/dL", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123458, "UniqID": "2020UU123458-0001", "unit": "mg", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123459, "UniqID": "2020UU123459-0001", "unit": "c", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123460, "UniqID": "2020UU123460-0001", "unit": "mol/L", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123461, "UniqID": "2020UU123461-0001", "unit": "bpm", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123462, "UniqID": "2020UU123462-0001", "unit": "Kg", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123463, "UniqID": "2020UU123463-0001", "unit": "mmHg", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123464, "UniqID": "2020UU123464-0001", "unit": "cm", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	{"ID": 123465, "UniqID": "2020UU123465-0001", "unit": "mL", "Value": 0, "measurementTime": "yyyy-MM-ddTkk:mm:ss"},
+	]
+}
